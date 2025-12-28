@@ -58,7 +58,7 @@ Planned improvements include:
 ---
 
 ## ▶️ Demo
-*(Upload your project demo video link here later if needed)*
+*already in the repo*
 
 ---
 
